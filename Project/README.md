@@ -40,6 +40,7 @@ Several structural patterns emerge from the data:
 
 - **FICO vs Interest Rate**  
   Higher credit scores correlate with lower interest rates → risk-based pricing behavior
+<img width="598" height="289" alt="image" src="https://github.com/user-attachments/assets/86948514-9254-41cc-a475-3eb6f872fe56" />
 
 - **Loan Purpose Distribution**  
   Debt consolidation dominates loan demand, followed by credit card usage
