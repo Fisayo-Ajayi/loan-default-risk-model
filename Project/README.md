@@ -10,7 +10,7 @@ This project approaches the problem from an investor’s perspective:
 
 ---
 
-## 2. Objective
+## 2. Business Objective
 
 To build classification models that predict whether a borrower will **fail to fully repay a loan**, enabling better risk-informed lending decisions.
 
